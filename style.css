@@ -9,7 +9,7 @@ body, section, header, div, p, h1, h2, h3, ul, li, figure, figcaption {
 body {
    font-family: 'Open Sans', sans-serif;
    box-sizing: border-box;
-   background-color: #F0F4F8;
+   background-color: #adb71a;
    font-weight: 300;
 }
 
@@ -72,7 +72,7 @@ header h2 {
    display: inline-block;
    width: calc(33% - 10px);
    margin: 10px 5px;
-   background-color: white;
+   background-color: rgb(8, 64, 94);
  }
  .card div {
    padding: 20px 5px;
